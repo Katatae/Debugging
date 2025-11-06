@@ -1,0 +1,3 @@
+The iissues I found with the previous code, were found in two different files.
+Inside the CSS file, there were about 2-4 spelling errors and an extra semicolon.
+The Java script had a few spelling erros, along with missing parenthesis. 
